@@ -43,12 +43,7 @@ Before running this script, ensure that you have the following:
 
 Feel free to fork this repository and submit pull requests to contribute improvements or additional features.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
-
 By following these steps, you should be able to run the script and check the availability of any EC2 instance type across all AWS regions. If you encounter any issues or have suggestions for improvements, please feel free to contribute or raise an issue.
 
 

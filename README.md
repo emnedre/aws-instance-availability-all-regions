@@ -26,7 +26,7 @@ Before running this script, ensure that you have the following:
 3. **Run the Script**: Execute the script by running:
 
     ```sh
-    ./check_instance_type_availability.sh
+    ./availability.sh
     ```
 
 4. **Provide Instance Type**: When prompted, enter the instance type you want to check (e.g., `r8g.medium`).
